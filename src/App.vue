@@ -1,23 +1,35 @@
 <template>
-  <div id="app">
-    <img src="./assets/logo.png">
-    <router-view/>
-  </div>
+<div>
+  <app-header></app-header>
+  <app-output></app-output>
+  <app-footer></app-footer>
+  <div></div>
+  
+
+</div>
 </template>
 
 <script>
+import header from './components/header.vue';
+import footer from './components/footer.vue';
+import showoutput from './components/showoutput.vue';
+
+
 export default {
-  name: 'app'
+  components:{
+    'app-header':header,
+    'app-footer':footer,
+    'app-output':showoutput
+  },
+
+  data () {
+    return {   
+      output:""
+  }   
+  }
 }
 </script>
 
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>
