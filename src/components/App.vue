@@ -7,11 +7,17 @@
 </template>
 
 <script>
+import WrapperTop from './views/WrapperTop.vue'
+import WrapperBottom from './views/WrapperBottom.vue'
   export default {
     name: 'App',
     data () {
       return {
       }
+    },
+    components:{
+      'wrapper-top': WrapperTop,
+      'wrapper-bottom': WrapperBottom
     },
     methods: {
       logout () {

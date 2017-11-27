@@ -1,6 +1,6 @@
 <template>
 <wrapper-top>
-    <p>  </p>
+    <p>  Top </p>
 </wrapper-top>
 </template>
 

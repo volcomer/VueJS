@@ -1,3 +1,4 @@
+/*eslint no-multiple-empty-lines: "off"*/
 <template>
 <div id="output">
     <div v-for="title in output" :key="title.id">
@@ -28,4 +29,3 @@ export default {
 <style>
 
 </style>
-// eslint-disable-line
