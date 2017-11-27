@@ -1,8 +1,12 @@
+/* eslint-disable */
+
+// import Statics
 import LoginView from './components/Login.vue'
 import NotFoundView from './components/404.vue'
 
 // Import Views
 import ShowOutput from './components/views/showoutput.vue'
+
 
 // Routes
 const routes = [
@@ -12,8 +16,7 @@ const routes = [
   },
   {
     path: '/',
-    component: ShowOutput
-
+    component: ShowOutput,
   }, {
     // not found handler
     path: '*',

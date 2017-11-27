@@ -5,6 +5,7 @@ import routes from './routes'
 import AppView from './App'
 
 Vue.use(VueResource)
+Vue.use(VueRouter)
 
 var router = new VueRouter({
   routes: routes,
