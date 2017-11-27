@@ -1,35 +1,36 @@
 <template>
-<div>
-  <app-header></app-header>
-  <app-output></app-output>
-  <app-footer></app-footer>
-  <div></div>
-  
+  <div>
+    <wrapper-top></wrapper-top>
+    <router-view></router-view>
 
-</div>
+  </div>
 </template>
 
 <script>
-import header from './components/header.vue';
-import footer from './components/footer.vue';
-import showoutput from './components/showoutput.vue';
+import WrapperTop from './components/views/WrapperTop.vue'
+import WrapperBottom from './components/views/WrapperBottom.vue'
+  export default {
+    name: 'App',
+    data () {
+      return {
+      }
+    },
+    components:{
+      'wrapper-top': WrapperTop,
+      'wrapper-bottom': WrapperBottom
+    },
+    methods: {
+      logout () {
+        this.$store.commit('SET_USER', null)
+        this.$store.commit('SET_TOKEN', null)
 
+        if (window.localStorage) {
+          window.localStorage.setItem('user', null)
+          window.localStorage.setItem('token', null)
+        }
 
-export default {
-  components:{
-    'app-header':header,
-    'app-footer':footer,
-    'app-output':showoutput
-  },
-
-  data () {
-    return {   
-      output:""
-  }   
+        this.$router.push('/login')
+      }
+    }
   }
-}
 </script>
-
-<style>
-
-</style>

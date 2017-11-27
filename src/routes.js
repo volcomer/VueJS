@@ -2,7 +2,7 @@ import LoginView from './components/Login.vue'
 import NotFoundView from './components/404.vue'
 
 // Import Views
-import Output from './components/views/showoutput'
+import ShowOutput from './components/views/showoutput.vue'
 
 // Routes
 const routes = [
@@ -12,7 +12,7 @@ const routes = [
   },
   {
     path: '/',
-    component: Output
+    component: ShowOutput
 
   }, {
     // not found handler

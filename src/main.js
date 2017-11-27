@@ -2,17 +2,13 @@ import Vue from 'vue'
 import VueResource from 'vue-resource'
 import VueRouter from 'vue-router'
 import routes from './routes'
-import AppView from './components/App'
+import AppView from './App'
 
 Vue.use(VueResource)
 
 var router = new VueRouter({
   routes: routes,
-  mode: 'history',
-  linkExactActiveClass: 'active',
-  scrollBehavior: function (to, from, savedPosition) {
-    return savedPosition || { x: 0, y: 0 }
-  }
+  mode: 'history'
 })
 
 // Start out app!
