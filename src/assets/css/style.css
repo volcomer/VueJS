@@ -21,7 +21,7 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 /*==========================================
-PRE LOADER
+PRE LOADER 
 ==========================================*/
 .preloader {
     position: fixed;
@@ -496,6 +496,7 @@ input:-ms-input-placeholder {
 .home-content{
     margin:180px 0;
     color:#fff;
+    text-transform:uppercase;
     width:75%;
 }
 .home-content h5{
@@ -509,7 +510,7 @@ input:-ms-input-placeholder {
 }
 .home-content h1 span{
     font-weight:600;
-    color:#8f2d23;
+    color:#7b6c63;
 }
 
 .btn-home{
@@ -890,7 +891,7 @@ input:-ms-input-placeholder {
 }
 
 .cd-timeline-img {
-
+    
     position: absolute;
     /*margin-top: 10px;*/
     top: 0;
@@ -1335,4 +1336,4 @@ input:-ms-input-placeholder {
 .scrollup:hover{
     color:#333;
     transform:scale(1.1);
-}
+}	
