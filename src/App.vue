@@ -2,6 +2,7 @@
   <div>
   <wrapper-Nav></wrapper-Nav>
   <router-view></router-view>
+  <wrapper-Footer></wrapper-Footer>
   </div>
 </template>
 
@@ -10,11 +11,16 @@ import WrapperNav from './components/views/WrapperNav.vue'
 import WrapperFooter from './components/views/WrapperFooter.vue'
 
 
+
+
   export default {
     name: 'App',
     components: {
       'wrapper-Nav':WrapperNav,
-      'wrapper-Footer':WrapperFooter
+      'wrapper-Footer':WrapperFooter,
+
+
+
      },
     data () {
       return {

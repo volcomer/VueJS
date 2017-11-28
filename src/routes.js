@@ -5,7 +5,7 @@ import LoginView from './components/Login.vue'
 import NotFoundView from './components/404.vue'
 
 // Import Views
-import ShowOutput from './components/views/showoutput.vue'
+import FPview from './components/views/FrontPage/FPContentWrapper'
 
 
 // Routes
@@ -16,7 +16,7 @@ const routes = [
   },
   {
     path: '/',
-    component: ShowOutput,
+    component: FPview,
   }, {
     // not found handler
     path: '*',
