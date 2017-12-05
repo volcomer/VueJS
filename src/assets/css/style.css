@@ -494,7 +494,7 @@ input:-ms-input-placeholder {
 
 /*For Home Section*/
 .home{
-    background: url(../images/header-bg.png) no-repeat center;
+    background: url('../images/front/header-bg.png') no-repeat center;
     -moz-background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -654,7 +654,7 @@ Team Styling
 /*For Skill Area*/
 
 .skill-bg{
-    background: url(../images/skills-bg.jpg) no-repeat center;
+    background: url('../images/front/skills-bg.jpg') no-repeat center;
     -moz-background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
