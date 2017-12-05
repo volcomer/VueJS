@@ -4,43 +4,13 @@
         <!-- Sections -->
         <section id="about" class="sections">
 
-            <div class="heading-content text-center">
+          <div class="heading-content text-center">
+            <h3>Heading content!</h3>
+            <div class="separator"></div>
+            <p class="font-hw"> "Take only memories, leave only footprints" </p>
+          </div>
 
-                <h3>Know About Us</h3>
-
-                <div class="separator"></div>
-
-                <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim </p>
-
-            </div>
-
-            <div class="about-bg">
-                <div class="container">
-
-                    <!-- Example row of columns -->
-                    <div class="row">
-                        <div class="col-md-6 col-sm-6 col-xs-6">
-                            <div class="about-content">
-
-                                <h3>We do weddings like no one else!</h3>
-                                <p>We have partenerd with the best to give your special day something truly special </p>
-                                <p>Volutpat wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum </p>
-
-
-                                <a target="_blank" href="#"><button class="btn btn-default abt-btn">Read More<span><i class="fa fa-long-arrow-right"></i></span></button></a>
-                            </div>
-                        </div>
-
-                        <div class="col-md-6 col-sm-6 col-xs-6">
-                            <div class="about-img">
-                                <img src="/src/assets/images/about-img.jpg" alt="" />
-                            </div>
-                        </div>
-
-                    </div>
-                </div> <!-- /container -->
-            </div>
-
+          <!-- Carousel -->
         </section>
 
         <!-- Sections -->
@@ -48,12 +18,12 @@
             <div class="container text-center">
                 <div class="heading-content2">
 
-                    <h4>Services We provide</h4>
+                    <h4>What can our services do for you</h4>
 
                     <p>
-                        Volutpat wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
-                        consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu
-                        feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent
+                        With over 25 years of combined experience tailormaking bespoke, lifealtering, trips for our clients, we are quite certain that we can make your
+                        dream vacation come true. Be it a special family vacation, a wonderers exploration, a lovers escape, a culture experience, an action adventure, a golfers dream, or even
+                        a special occation like a wedding or an aniversary. Give us your budget, and your dream, and we will make it come true.
                     </p>
 
                 </div>
@@ -61,7 +31,7 @@
                 <div class="row">
                     <div class="col-md-4 col-sm-12 col-xs-12">
                         <div class="service-content">
-                            <i class="fa fa-users"></i>
+                            <i class="fa fa-plane"></i>
                             <h5>Consultancy</h5>
                             <p>Caritas aritas est etiam processus dynaicus qui sequitur mutationem consuetudium lectorum. Mirum est notare quam </p>
                         </div>
@@ -77,7 +47,7 @@
 
                     <div class="col-md-4 col-sm-12 col-xs-12">
                         <div class="service-content">
-                            <i class="fa fa-database"></i>
+                            <i class="fa fa-suitcase"></i>
                             <h5>Research</h5>
                             <p>Caritas aritas est etiam processus dynaicus qui sequitur mutationem consuetudium lectorum. Mirum est notare quam </p>
                         </div>
@@ -301,7 +271,7 @@
     </section>
 
     <!-- Sections -->
-    <section id="team" class="sections lightbg">
+    <section id="team" class="sections">
         <div class="container text-center">
             <div class="heading-content text-center">
 
@@ -314,15 +284,15 @@
             </div>
             <!-- Example row of columns -->
             <div class="row">
-                <div class="col-md-4 col-sm-6 col-xs-12">
+              <div class="col-md-3 col-sm-0 col-xs-0"></div>
+				<div class="col-md-3 col-sm-6 col-xs-6">
 					<div class="main-team">
 						<div class="team-details">
 
-						  <img src="/src/assets/images/team-img.jpg" alt="" />
+						  <img class="w3-sepia-min" src="/src/assets/images/fred.jpg" alt="" />
 							<div class="team-overlay"></div>
 
 							<div class="social">
-								<a href="#"><i class="fa fa-twitter"></i></a>
 								<a href="#"><i class="fa fa-facebook"></i></a>
 								<a href="#"><i class="fa fa-linkedin"></i></a>
 							</div>
@@ -330,21 +300,20 @@
 						</div>
 
 						<div class="members-info">
-							<h4>Mitchell Anderson</h4>
-							<h6>Creative Director</h6>
+							<h4>Fred Arild Gyldenås </h4>
+							<h6>Managing Director</h6>
 						</div>
 					</div>
                 </div>
 
-				<div class="col-md-4 col-sm-6 col-xs-12">
+				<div class="col-md-3 col-sm-6 col-xs-6">
 					<div class="main-team">
 						<div class="team-details">
-
-						  <img src="/src/assets/images/team-img.jpg" alt="" />
+              <img class="w3-sepia-min" src="/src/assets/images/rose.jpg" alt="" />
 							<div class="team-overlay"></div>
 
+
 							<div class="social">
-								<a href="#"><i class="fa fa-twitter"></i></a>
 								<a href="#"><i class="fa fa-facebook"></i></a>
 								<a href="#"><i class="fa fa-linkedin"></i></a>
 							</div>
@@ -352,30 +321,8 @@
 						</div>
 
 						<div class="members-info">
-							<h4>Mitchell Anderson</h4>
-							<h6>Creative Director</h6>
-						</div>
-					</div>
-                </div>
-
-				<div class="col-md-4 col-sm-6 col-xs-12">
-					<div class="main-team">
-						<div class="team-details">
-
-						  <img src="/src/assets/images/team-img.jpg" alt="" />
-							<div class="team-overlay"></div>
-
-							<div class="social">
-								<a href="#"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="#"><i class="fa fa-linkedin"></i></a>
-							</div>
-
-						</div>
-
-						<div class="members-info">
-							<h4>Mitchell Anderson</h4>
-							<h6>Creative Director</h6>
+							<h4>Rosemary Gyldenås</h4>
+							<h6>Director of sales</h6>
 						</div>
 					</div>
                 </div>
@@ -405,7 +352,7 @@
 
                             <div class="item active">
                                 <div class="client-content">
-                                    <h3>What Our Clients are saying</h3>
+                                    <h1>What Our Clients are saying</h1>
                                     <p>
                                         “It was a pleasure to work with Imran. He is very dedicated and professional.
                                         He worked very hard to satisfy our requirements and the communication was great.”
@@ -421,7 +368,7 @@
 
 							<div class="item">
                                 <div class="client-content">
-                                    <h3>What Our Clients are saying</h3>
+                                    <h1>What Our Clients are saying</h1>
                                     <p>
                                         “It was a pleasure to work with Imran. He is very dedicated and professional.
                                         He worked very hard to satisfy our requirements and the communication was great.”
@@ -438,7 +385,7 @@
 
 							<div class="item">
                                 <div class="client-content">
-                                    <h3>What Our Clients are saying</h3>
+                                    <h1>What Our Clients are saying</h1>
                                     <p>
                                         “It was a pleasure to work with Imran. He is very dedicated and professional.
                                         He worked very hard to satisfy our requirements and the communication was great.”
@@ -586,6 +533,7 @@
 
 
 <script>
+
 
 export default {
   data () {

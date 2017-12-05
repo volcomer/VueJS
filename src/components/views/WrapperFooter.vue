@@ -8,7 +8,7 @@
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="footer-first-content">
                         <div class="logo"><img src="/src/assets/images/logo.png" alt="Company Logo" /></div>
-                        <p class="fa fa-heart fa-2x">  Our mission remains the same; to prvide our clients with "the experience of a lifetime"</br>
+                        <p>  Our mission remains the same; to prvide our clients with "the experience of a lifetime"</br>
                         With almost 50 years of combined competance we are confident that we can provide you with whatever you desire
                         </p>
                         <p> Get in touch with us and start planning your dream vacation today</p>

@@ -10,16 +10,11 @@
 import WrapperNav from './components/views/WrapperNav.vue'
 import WrapperFooter from './components/views/WrapperFooter.vue'
 
-
-
-
   export default {
     name: 'App',
     components: {
       'wrapper-Nav':WrapperNav,
       'wrapper-Footer':WrapperFooter,
-
-
 
      },
     data () {
@@ -41,3 +36,8 @@ import WrapperFooter from './components/views/WrapperFooter.vue'
     }
   }
 </script>
+
+<style>
+
+</style>
+
