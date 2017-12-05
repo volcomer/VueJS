@@ -1,11 +1,15 @@
 <template>
   <div>
-    <AdminNav></AdminNav>
-    <AdminContent></AdminContent>
+    <FPNav></FPNav>
+
+    <FPFooter></FPFooter>
   </div>
 </template>
 
 <script>
+import FPNav from './views/FrontPage/WrapperNav'
+import FPFooter from './views/FrontPage/WrapperFooter'
+
 
 
   export default {
@@ -19,3 +23,6 @@
     },
   }
 </script>
+<style>
+
+</style>

@@ -2,7 +2,7 @@
   <div class="container container-table">
       <div class="row vertical-10p">
         <div class="container">
-          <img src="/static/img/logo.png" class="center-block logo">
+          <img src="/src/assets/images/admin/logo.png" class="center-block logo">
           <div class="text-center col-md-4 col-sm-offset-4">
             <!-- login form -->
             <form class="ui form loginForm"  @submit.prevent="checkCreds">
@@ -110,6 +110,7 @@ html, body, .container-table {
 .container-table {
     display: table;
     color: white;
+    background-color: black;
 }
 .vertical-center-row {
     display: table-cell;
@@ -131,5 +132,6 @@ html, body, .container-table {
 }
 .input-group input {
   height: 4em;
+  background-color: white;
 }
 </style>
