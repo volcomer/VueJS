@@ -8,7 +8,7 @@
             <h3>Heading content!</h3>
             <div class="separator"></div>
             <p class="font-hw"> "Take only memories, leave only footprints" </p>
-            <img src="/src/assets/images/afrika_logo.png" width="800 px"></img>
+            <img src="/src/assets/images/front/afrika_logo.png" width="800 px"></img>
           </div>
           <!-- Carousel -->
         </section>
@@ -109,7 +109,7 @@
             <div class="row">
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="project-item">
-						      <img src="/src/assets/images/project/1.png" alt="" />
+						      <img src="/src/assets/images/front/project/1.png" alt="" />
                   <div class="project-overlay">
                  </div>
 						      <div class="project-content">
@@ -123,7 +123,7 @@
 
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="project-item">
-						      <img src="/src/assets/images/project/2.png" alt="" />
+						      <img src="/src/assets/images/front/project/2.png" alt="" />
                     <div class="project-overlay">
                     </div>
 						        <div class="project-content">
@@ -137,7 +137,7 @@
 
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="project-item">
-						      <img src="/src/assets/images/project/3.png" alt="" />
+						      <img src="/src/assets/images/front/project/3.png" alt="" />
                     <div class="project-overlay">
                     </div>
 						        <div class="project-content">
@@ -151,7 +151,7 @@
 
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="project-item">
-						      <img src="/src/assets/images/project/4.png" alt="" />
+						      <img src="/src/assets/images/front/project/4.png" alt="" />
                     <div class="project-overlay">
                     </div>
 						        <div class="project-content">
@@ -165,7 +165,7 @@
 
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="project-item">
-						      <img src="/src/assets/images/project/1.png" alt="" />
+						      <img src="/src/assets/images/front/project/1.png" alt="" />
                     <div class="project-overlay">
                     </div>
 						        <div class="project-content">
@@ -179,7 +179,7 @@
 
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="project-item">
-						      <img src="/src/assets/images/project/2.png" alt="" />
+						      <img src="/src/assets/images/front/project/2.png" alt="" />
                     <div class="project-overlay">
                     </div>
 						        <div class="project-content">
@@ -193,7 +193,7 @@
 
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="project-item">
-						      <img src="/src/assets/images/project/3.png" alt="" />
+						      <img src="/src/assets/images/front/project/3.png" alt="" />
                     <div class="project-overlay">
                     </div>
 						        <div class="project-content">
@@ -207,7 +207,7 @@
 
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="project-item">
-						      <img src="/src/assets/images/project/4.png" alt="" />
+						      <img src="/src/assets/images/front/project/4.png" alt="" />
                     <div class="project-overlay">
                     </div>
 						        <div class="project-content">
@@ -267,7 +267,7 @@
 					<div class="main-team">
 						<div class="team-details">
 
-						  <img class="w3-sepia-min" src="/src/assets/images/fred.jpg" alt="" />
+						  <img class="w3-sepia-min" src="/src/assets/images/front/fred.jpg" alt="" />
 							<div class="team-overlay"></div>
 
 							<div class="social">
@@ -287,7 +287,7 @@
 				<div class="col-md-3 col-sm-6 col-xs-6">
 					<div class="main-team">
 						<div class="team-details">
-              <img class="w3-sepia-min" src="/src/assets/images/rose.jpg" alt="" />
+              <img class="w3-sepia-min" src="/src/assets/images/front/rose.jpg" alt="" />
 							<div class="team-overlay"></div>
 
 
@@ -421,7 +421,7 @@
                     <h2>Typi non habent claritatem insitam</h2>
                     <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui</p>
                     <a href="#0" class="cd-read-more">Read more</a>
-                    <span class="cd-date"><img src="/src/assets/images/timeline/timeline.png" alt="timeline" /></span>
+                    <span class="cd-date"><img src="/src/assets/images/front/timeline/timeline.png" alt="timeline" /></span>
                 </div> <!-- cd-timeline-content -->
             </div> <!-- cd-timeline-block -->
 
@@ -434,7 +434,7 @@
                     <h2>Typi non habent claritatem insitam</h2>
                     <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui</p>
                     <a href="#0" class="cd-read-more">Read more</a>
-                    <span class="cd-date"><img src="/src/assets/images/timeline/timeline.png" alt="timeline" /></span>
+                    <span class="cd-date"><img src="/src/assets/images/front/timeline/timeline.png" alt="timeline" /></span>
                 </div> <!-- cd-timeline-content -->
             </div> <!-- cd-timeline-block -->
 
@@ -447,7 +447,7 @@
                     <h2>Typi non habent claritatem insitam</h2>
                     <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui</p>
                     <a href="#0" class="cd-read-more">Read more</a>
-                    <span class="cd-date"><img src="/src/assets/images/timeline/timeline.png" alt="timeline" /></span>
+                    <span class="cd-date"><img src="/src/assets/images/front/timeline/timeline.png" alt="timeline" /></span>
                 </div> <!-- cd-timeline-content -->
             </div> <!-- cd-timeline-block -->
 
