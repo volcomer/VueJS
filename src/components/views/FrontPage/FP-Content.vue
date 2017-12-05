@@ -8,8 +8,8 @@
             <h3>Heading content!</h3>
             <div class="separator"></div>
             <p class="font-hw"> "Take only memories, leave only footprints" </p>
+            <img src="/src/assets/images/afrika_logo.png" width="800 px"></img>
           </div>
-
           <!-- Carousel -->
         </section>
 
@@ -32,16 +32,16 @@
                     <div class="col-md-4 col-sm-12 col-xs-12">
                         <div class="service-content">
                             <i class="fa fa-plane"></i>
-                            <h5>Consultancy</h5>
-                            <p>Caritas aritas est etiam processus dynaicus qui sequitur mutationem consuetudium lectorum. Mirum est notare quam </p>
+                            <h5>Air travel & transfers </h5>
+                            <p>We sort out your air travels an dall transfers so you don't hvae to worry about getting to your desired hotell or destination on time</p>
                         </div>
                     </div>
 
                     <div class="col-md-4 col-sm-12 col-xs-12">
                         <div class="service-content">
                             <i class="fa fa-camera"></i>
-                            <h5>Marketing</h5>
-                            <p>Caritas aritas est etiam processus dynaicus qui sequitur mutationem consuetudium lectorum. Mirum est notare quam </p>
+                            <h5>Guides & Experiences </h5>
+                            <p> With spot checks and fam trips we do extensive testing of our partners so that we are personally able to guarantee the services are up to the expected standards. </p>
                         </div>
                     </div>
 
@@ -49,7 +49,7 @@
                         <div class="service-content">
                             <i class="fa fa-suitcase"></i>
                             <h5>Research</h5>
-                            <p>Caritas aritas est etiam processus dynaicus qui sequitur mutationem consuetudium lectorum. Mirum est notare quam </p>
+                            <p> As a member of Reisegarantifondet your investment in your dream vacation is protected, should the unthinkable happen.  </p>
                         </div>
                     </div>
 
@@ -59,187 +59,165 @@
 
         <!-- Sections -->
         <section id="our-skills" class=" skills skill-bg">
-            <div class="overlay-img">
-                <div class="container sections text-center">
-                    <div class="skill-heading">
-
-                        <h4>Our Skills</h4>
-
-                    </div>
+          <div class="overlay-img">
+            <div class="container sections text-center">
+              <div class="skill-heading">
+                <h4>Client Photo Gallery</h4>
+              </div>
                     <!-- Example row of columns -->
-                    <div class="row">
-                            <div class="col-sm-3 text-center">
-								<div class="main-skill">
-									<div class="chart-round">
-										<div class="chart" data-percent="86">
-											<span class="percent"></span>
-										</div>
-									</div>
-									<div class="skills-text">Marketing</div>
+              <div class="row">
+                <div class="col-sm-3 text-center">
+				          <div class="skills-text">
+                    Safari
+                  </div>
 								</div>
-                            </div>
 
-                            <div class="col-sm-3 text-center">
-								<div class="main-skill">
-									<div class="chart-round">
-										<div class="chart" data-percent="86">
-											<span class="percent"></span>
-										</div>
-									</div>
-									<div class="skills-text">Marketing</div>
-								</div>
-                            </div>
-
-                            <div class="col-sm-3 text-center">
-								<div class="main-skill">
-									<div class="chart-round">
-										<div class="chart" data-percent="86">
-											<span class="percent"></span>
-										</div>
-									</div>
-									<div class="skills-text">Marketing</div>
-								</div>
-                            </div>
-
-                            <div class="col-sm-3 text-center">
-								<div class="main-skill">
-									<div class="chart-round">
-										<div class="chart" data-percent="86">
-											<span class="percent"></span>
-										</div>
-									</div>
-									<div class="skills-text">Marketing</div>
-								</div>
-                            </div>
-
-                        </div>
-
+                <div class="col-sm-3 text-center">
+                  <div class="skills-text">
+                      Beach
+                  </div>
                 </div>
+
+                <div class="col-sm-3 text-center">
+                  <div class="skills-text">
+                    Activities
+                  </div>
+                </div>
+
+                <div class="col-sm-3 text-center">
+									<div class="skills-text">
+                    Golf
+                  </div>
+								</div>
+
+              </div> <!-- Row -->
             </div> <!-- /container -->
+          </div>
     </section>
 
 
     <!-- Sections -->
     <section id="project" class="sections">
-        <div class="container text-center">
+      <div class="container text-center">
+        <div class="heading-content text-center">
+          <h3>PLanned Group Trips</h3>
+          <div class="separator"></div>
+            <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim </p>
+          </div>
 
-            <div class="heading-content text-center">
-
-                <h3>Some Recent Project</h3>
-
-                <div class="separator"></div>
-
-                <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim </p>
-
-            </div>
             <!-- Example row of columns -->
             <div class="row">
+              <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="project-item">
+						      <img src="/src/assets/images/project/1.png" alt="" />
+                  <div class="project-overlay">
+                 </div>
+						      <div class="project-content">
+							      <h5>PaperClips</h5>
+							      <div class="project-separator">
+                    </div>
+							      <h6>Branding</h6>
+					        </div>
+					      </div>
+              </div>
 
-                <div class="col-md-3 col-sm-6 col-xs-12">
+              <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="project-item">
+						      <img src="/src/assets/images/project/2.png" alt="" />
+                    <div class="project-overlay">
+                    </div>
+						        <div class="project-content">
+							        <h5>PaperClips</h5>
+							        <div class="project-separator">
+                      </div>
+							        <h6>Branding</h6>
+						        </div>
+					      </div>
+              </div>
 
-                    <div class="project-item">
-						<img src="/src/assets/images/project/1.png" alt="" />
+              <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="project-item">
+						      <img src="/src/assets/images/project/3.png" alt="" />
+                    <div class="project-overlay">
+                    </div>
+						        <div class="project-content">
+							        <h5>PaperClips</h5>
+							        <div class="project-separator">
+                      </div>
+							        <h6>Branding</h6>
+						        </div>
+					      </div>
+              </div>
 
-						<div class="project-overlay"></div>
-						<div class="project-content">
-							<h5>PaperClips</h5>
-							<div class="project-separator"></div>
-							<h6>Branding</h6>
-						</div>
-					</div>
+              <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="project-item">
+						      <img src="/src/assets/images/project/4.png" alt="" />
+                    <div class="project-overlay">
+                    </div>
+						        <div class="project-content">
+							        <h5>PaperClips</h5>
+							        <div class="project-separator">
+                      </div>
+							        <h6>Branding</h6>
+						        </div>
+					      </div>
+              </div>
 
-                </div>
+              <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="project-item">
+						      <img src="/src/assets/images/project/1.png" alt="" />
+                    <div class="project-overlay">
+                    </div>
+						        <div class="project-content">
+							        <h5>PaperClips</h5>
+							        <div class="project-separator">
+                      </div>
+							        <h6>Branding</h6>
+						        </div>
+					      </div>
+              </div>
 
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="project-item">
-						<img src="/src/assets/images/project/2.png" alt="" />
+              <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="project-item">
+						      <img src="/src/assets/images/project/2.png" alt="" />
+                    <div class="project-overlay">
+                    </div>
+						        <div class="project-content">
+							        <h5>PaperClips</h5>
+							        <div class="project-separator">
+                      </div>
+							        <h6>Branding</h6>
+						        </div>
+					      </div>
+              </div>
 
-						<div class="project-overlay"></div>
-						<div class="project-content">
-							<h5>PaperClips</h5>
-							<div class="project-separator"></div>
-							<h6>Branding</h6>
-						</div>
-					</div>
-                </div>
+              <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="project-item">
+						      <img src="/src/assets/images/project/3.png" alt="" />
+                    <div class="project-overlay">
+                    </div>
+						        <div class="project-content">
+							        <h5>PaperClips</h5>
+							        <div class="project-separator">
+                      </div>
+							        <h6>Branding</h6>
+						        </div>
+					      </div>
+              </div>
 
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="project-item">
-						<img src="/src/assets/images/project/3.png" alt="" />
-
-						<div class="project-overlay"></div>
-						<div class="project-content">
-							<h5>PaperClips</h5>
-							<div class="project-separator"></div>
-							<h6>Branding</h6>
-						</div>
-					</div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="project-item">
-						<img src="/src/assets/images/project/4.png" alt="" />
-
-						<div class="project-overlay"></div>
-						<div class="project-content">
-							<h5>PaperClips</h5>
-							<div class="project-separator"></div>
-							<h6>Branding</h6>
-						</div>
-					</div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="project-item">
-						<img src="/src/assets/images/project/1.png" alt="" />
-
-						<div class="project-overlay"></div>
-						<div class="project-content">
-							<h5>PaperClips</h5>
-							<div class="project-separator"></div>
-							<h6>Branding</h6>
-						</div>
-					</div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="project-item">
-						<img src="/src/assets/images/project/2.png" alt="" />
-
-						<div class="project-overlay"></div>
-						<div class="project-content">
-							<h5>PaperClips</h5>
-							<div class="project-separator"></div>
-							<h6>Branding</h6>
-						</div>
-					</div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="project-item">
-						<img src="/src/assets/images/project/3.png" alt="" />
-
-						<div class="project-overlay"></div>
-						<div class="project-content">
-							<h5>PaperClips</h5>
-							<div class="project-separator"></div>
-							<h6>Branding</h6>
-						</div>
-					</div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="project-item">
-						<img src="/src/assets/images/project/4.png" alt="" />
-
-						<div class="project-overlay"></div>
-						<div class="project-content">
-							<h5>PaperClips</h5>
-							<div class="project-separator"></div>
-							<h6>Branding</h6>
-						</div>
-					</div>
-                </div>
+              <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="project-item">
+						      <img src="/src/assets/images/project/4.png" alt="" />
+                    <div class="project-overlay">
+                    </div>
+						        <div class="project-content">
+							        <h5>PaperClips</h5>
+							        <div class="project-separator">
+                      </div>
+							        <h6>Branding</h6>
+						        </div>
+					      </div>
+              </div>
 
             </div>
 
@@ -258,9 +236,9 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 col-sm-12 col-xs-12">
                     <div class="twitter-content">
-                        <h5>LATEST FROM TWITTER</h5>
-                        <p>Trying out velositey - a simple website building extension for Photoshop.</p>
-                        <a target="_blank" href="#">buff.ly/NC8gog</a>
+                        <h5>Latest comments from our clients</h5>
+                        <p>"Everything went off without a hitch. Value for money "</p>
+                        <a target="_blank" href="#">@personOnFacebook</a>
                     </div>
                 </div>
 
@@ -354,13 +332,12 @@
                                 <div class="client-content">
                                     <h1>What Our Clients are saying</h1>
                                     <p>
-                                        “It was a pleasure to work with Imran. He is very dedicated and professional.
-                                        He worked very hard to satisfy our requirements and the communication was great.”
+                                        “Thank you for a great holliday. Lorem Ipsum aso aso. Lions Tigers and long par 5's. Text placeholder for posterity. ”
                                     </p>
 
                                     <div class="client-basicinfo">
                                         <h6>John Doe</h6>
-                                        <a href="#">www.yourwebsite.zt</a>
+                                        <a href="#">@SomePersonOnFacebook</a>
                                     </div>
 
                                 </div>
@@ -370,14 +347,12 @@
                                 <div class="client-content">
                                     <h1>What Our Clients are saying</h1>
                                     <p>
-                                        “It was a pleasure to work with Imran. He is very dedicated and professional.
-                                        He worked very hard to satisfy our requirements and the communication was great.”
-
+                                        “Thank you for a great holliday. Lorem Ipsum aso aso. Lions Tigers and long par 5's. Text placeholder for posterity. ”
                                     </p>
 
                                     <div class="client-basicinfo">
                                         <h6>John Doe</h6>
-                                        <a href="#">www.yourwebsite.zt</a>
+                                        <a href="#">@SomePersonOnFacebook</a>
                                     </div>
 
                                 </div>
@@ -387,13 +362,12 @@
                                 <div class="client-content">
                                     <h1>What Our Clients are saying</h1>
                                     <p>
-                                        “It was a pleasure to work with Imran. He is very dedicated and professional.
-                                        He worked very hard to satisfy our requirements and the communication was great.”
+                                        “Thank you for a great holliday. Lorem Ipsum aso aso. Lions Tigers and long par 5's. Text placeholder for posterity. ”
                                     </p>
 
                                     <div class="client-basicinfo">
                                         <h6>John Doe</h6>
-                                        <a href="#">www.yourwebsite.zt</a>
+                                        <a href="#">@SomePersonOnFacebook</a>
                                     </div>
 
                                 </div>

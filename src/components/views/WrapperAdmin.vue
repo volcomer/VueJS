@@ -1,18 +1,17 @@
 <template>
-  <div>
 
-  </div>
 </template>
 
 <script>
 
 export default {
-  name: 'Login',
-  data (router) {
+  data () {
     return {
-    }
   }
-}
+  },
+  }
+
 </script>
+
 <style>
 </style>
