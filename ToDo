@@ -1,0 +1,45 @@
+Total Re-Write incomming baset on Bootstrap Vue + Firebase
+
+{
+  "Articles" : [ null, {
+    "Content" : "<p><strong>Dag 2&nbsp;&nbsp;Kilimanjaro - Arusha – Tarangire&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br></strong>Ankomst Kilimanjaro på morgenen. Her blir du møtte av Kenor Safaris lokale representant og gitt en orientering om&nbsp;den forestående safarien. Deretter setter dere kursen for Tarangire hvor dere ankommer lodgen/campen for innsjekk og lunsj. På ettermiddagen blir det fotosafari i parken fram til solnedgang. Dere vender så tilbake til lodgen / campen for leirbål, drikke og middag. Full pensjon.<br><i>Tarangire er kjent for sine store elefantflokker som man ikke finner i de andre parker i denne delen av Tanzania. Ellers har parken et variert dyre- og fugleliv, hvor leoparden kan dukke opp rett foran bilen.&nbsp;&nbsp;</i><u></u></p>",
+    "DateCreated" : "08.12.2017",
+    "FrontPage" : "True",
+    "FrontPageOrdering" : 1,
+    "Language" : "En",
+    "Ordering" : 1,
+    "Published" : "True",
+    "Tags" : "Safari, Mountain, Beach",
+    "Title" : "Article 1 Title"
+  } ]
+}
+
+
+
+https://laracasts.com/series/learn-vue-2-step-by-step
+
+https://bootstrap-vue.js.org/docs/ <- Bootstrap Vue import
+
+//*
+setup bootstrap-vue as described in the getting started, but DO NOT import the css styles
+instead create a folder, like src/assets/scss and put there:
+src/assets/scss/_bootstrap-variable-override.scss (same as _custom.scss, here you override variables)
+src/assets/scss/app.scss with following content:
+
+@import "bootstrap-variable-override";
+@import "~bootstrap/scss/bootstrap.scss";
+
+in App.vue inject it as following:
+
+<style lang="scss">
+
+  @import './assets/scss/app.scss';
+</style>
+
+*//
+
+http://v4-alpha.getbootstrap.com/getting-started/options/ <- howto customize boostrap scss
+
+
+
+

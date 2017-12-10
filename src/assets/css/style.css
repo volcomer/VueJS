@@ -229,6 +229,10 @@ Section
     position: relative;
     overflow: hidden;
 }
+.sections.spacer {
+  padding: 0px;
+
+}
 .sections.footer {
     padding-bottom:20px;
 }
@@ -467,7 +471,7 @@ input:-ms-input-placeholder {
 
 .navbar-default {
   background: rgba(14, 32, 37, 0.350);
-  padding: 20px 0;
+  padding: 23px 0;
   transition: all 0.3s;
 }
 
@@ -488,7 +492,7 @@ input:-ms-input-placeholder {
 }
 
 .top-nav-collapse {
-  padding: 0;
+  padding: 12px 0;
   background: rgba(26, 29, 31, 0.98);
 }
 

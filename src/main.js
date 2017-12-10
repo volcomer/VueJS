@@ -1,3 +1,4 @@
+/* eslint-disable */
 import Vue from 'vue'
 import VueResource from 'vue-resource'
 import VueRouter from 'vue-router'
@@ -5,9 +6,8 @@ import routes from './routes'
 import AppView from './App'
 import BootstrapVue from 'bootstrap-vue'
 
-// Touch Carousel - Non configurable
-// import VueCarousel from 'vue-carousel'
-// Vue.use(VueCarousel)
+// EventBus
+window.EventBus = new Vue();
 
 Vue.use(VueResource)
 Vue.use(VueRouter)
